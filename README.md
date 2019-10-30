@@ -44,7 +44,7 @@ chrome web driver
 
 <!-- ABOUT THE PROJECT -->
 ## About The Project
-![Product Name Screen Shot](https://github.com/Zeeshanahmad4/AWS-Partner-Solutions-Finder/blob/master/2.JPG)
+![Product Name Screen Shot](https://github.com/Zeeshanahmad4/AWS-Partner-Solutions-Finder/blob/master/dasdadadasdas.jpg)
 
 
 ### Built With
